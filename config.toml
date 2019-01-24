@@ -56,10 +56,6 @@ disable = true
 # You won't be able to hash-query blockchain data.
 enable = false
 
-[dapps]
-# You won't be able to access any web Dapps.
-disable = true
-
 [mining]
 reseal_min_period = 0
 min_gas_price = 1
