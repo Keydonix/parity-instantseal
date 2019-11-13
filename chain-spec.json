@@ -43,6 +43,10 @@
 		"0000000000000000000000000000000000000006": { "balance": "1", "builtin": { "name": "alt_bn128_add", "activate_at": 0, "pricing": { "linear": { "base": 500, "word": 0 } } } },
 		"0000000000000000000000000000000000000007": { "balance": "1", "builtin": { "name": "alt_bn128_mul", "activate_at": 0, "pricing": { "linear": { "base": 40000, "word": 0 } } } },
 		"0000000000000000000000000000000000000008": { "balance": "1", "builtin": { "name": "alt_bn128_pairing", "activate_at": 0, "pricing": { "alt_bn128_pairing": { "eip1108_transition_base": 45000, "eip1108_transition_pair": 34000, "base": 100000, "pair": 80000 } } } },
-		"0x913da4198e6be1d5f5e4a40d0667f70c0b5430eb": { "balance": "0xffffffffffffffffffffffffffffffff" }
+		"0x913da4198e6be1d5f5e4a40d0667f70c0b5430eb": { "balance": "0xffffffffffffffffffffffffffffffff" },
+		"0xfc2077ca7f403cbeca41b1b0f62d91b5ea631b5e": { "balance": "0xfffffffffffffffffff" },
+		"0xd1a7451beb6fe0326b4b78e3909310880b781d66": { "balance": "0xfffffffffffffffffff" },
+		"0x578270b5e5b53336bac354756b763b309eca90ef": { "balance": "0xfffffffffffffffffff" },
+		"0x909f59835a5a120eafe1c60742485b7ff0e305da": { "balance": "0xfffffffffffffffffff" }
 	}
 }
