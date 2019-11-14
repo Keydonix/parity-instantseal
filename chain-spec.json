@@ -44,16 +44,16 @@
 		"0000000000000000000000000000000000000007": { "balance": "1", "builtin": { "name": "alt_bn128_mul", "activate_at": 0, "pricing": { "linear": { "base": 40000, "word": 0 } } } },
 		"0000000000000000000000000000000000000008": { "balance": "1", "builtin": { "name": "alt_bn128_pairing", "activate_at": 0, "pricing": { "alt_bn128_pairing": { "eip1108_transition_base": 45000, "eip1108_transition_pair": 34000, "base": 100000, "pair": 80000 } } } },
 		"0x913da4198e6be1d5f5e4a40d0667f70c0b5430eb": { "balance": "0xffffffffffffffffffffffffffffffff" },
-		"0xfc2077ca7f403cbeca41b1b0f62d91b5ea631b5e": { "balance": "0x56bc75e2d63100000" },
-		"0xd1a7451beb6fe0326b4b78e3909310880b781d66": { "balance": "0x56bc75e2d63100000" },
-		"0x578270b5e5b53336bac354756b763b309eca90ef": { "balance": "0x56bc75e2d63100000" },
-		"0x909f59835a5a120eafe1c60742485b7ff0e305da": { "balance": "0x56bc75e2d63100000" },
-		"0x5711cED5ce6d91Ec7af3e5b02dDB47f409d42818": { "balance": "0x56bc75e2d63100000" },
-		"0x02db23843DB65077E19757Af077648F106ae9243": { "balance": "0x56bc75e2d63100000" },
-		"0x543289B0965Eba079b277B344DD1C0C2ab47a4bA": { "balance": "0x56bc75e2d63100000" },
-		"0x1de55545a139b3BEc88301C87BA241323B0E5ae1": { "balance": "0x56bc75e2d63100000" },
-		"0xd59feDEbbA13B004677004b79Dec7b60E4913AAc": { "balance": "0x56bc75e2d63100000" },
-		"0xc4c28C29561ff3d3eB34bcd68A41fce70F8D19B6": { "balance": "0x56bc75e2d63100000" }
+		"0xfc2077ca7f403cbeca41b1b0f62d91b5ea631b5e": { "balance": "0x152d02c7e14af6800000" },
+		"0xd1a7451beb6fe0326b4b78e3909310880b781d66": { "balance": "0x152d02c7e14af6800000" },
+		"0x578270b5e5b53336bac354756b763b309eca90ef": { "balance": "0x152d02c7e14af6800000" },
+		"0x909f59835a5a120eafe1c60742485b7ff0e305da": { "balance": "0x152d02c7e14af6800000" },
+		"0x5711cED5ce6d91Ec7af3e5b02dDB47f409d42818": { "balance": "0x152d02c7e14af6800000" },
+		"0x02db23843DB65077E19757Af077648F106ae9243": { "balance": "0x152d02c7e14af6800000" },
+		"0x543289B0965Eba079b277B344DD1C0C2ab47a4bA": { "balance": "0x152d02c7e14af6800000" },
+		"0x1de55545a139b3BEc88301C87BA241323B0E5ae1": { "balance": "0x152d02c7e14af6800000" },
+		"0xd59feDEbbA13B004677004b79Dec7b60E4913AAc": { "balance": "0x152d02c7e14af6800000" },
+		"0xc4c28C29561ff3d3eB34bcd68A41fce70F8D19B6": { "balance": "0x152d02c7e14af6800000" }
 	}
 
 }
