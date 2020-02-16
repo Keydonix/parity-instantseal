@@ -1,4 +1,5 @@
-FROM parity/parity:v2.5.9-stable
+# v2.7.2-stable
+FROM parity/parity@sha256:4a33438fe4cbd73a6ad37874becf3215c77ac3d7a567992ebd3ee4142fabdb5a
 
 WORKDIR /
 COPY dev-key.json /home/parity/keys/DevChain/dev-key.json
