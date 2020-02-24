@@ -49,7 +49,7 @@
 		"0000000000000000000000000000000000000007": { "balance": "1", "builtin": { "name": "alt_bn128_mul", "pricing": { "0x0": { "price": { "alt_bn128_const_operations": { "price": 6000 } } } } } },
 		"0000000000000000000000000000000000000008": { "balance": "1", "builtin": { "name": "alt_bn128_pairing", "pricing": { "0x0": { "price": { "alt_bn128_pairing": { "base": 45000, "pair": 34000 } } } } } },
 		"0000000000000000000000000000000000000009": { "builtin": { "name": "blake2_f", "activate_at": 0, "pricing": { "blake2_f": { "gas_per_round": 1 } } } },
-		"0x913da4198e6be1d5f5e4a40d0667f70c0b5430eb": { "balance": "0xffffffffffffffffffffffffffffffff" },
+		"0x913da4198e6be1d5f5e4a40d0667f70c0b5430eb": { "balance": "0x152d02c7e14af6800000" },
 		"0xfc2077ca7f403cbeca41b1b0f62d91b5ea631b5e": { "balance": "0x152d02c7e14af6800000" },
 		"0xd1a7451beb6fe0326b4b78e3909310880b781d66": { "balance": "0x152d02c7e14af6800000" },
 		"0x578270b5e5b53336bac354756b763b309eca90ef": { "balance": "0x152d02c7e14af6800000" },
