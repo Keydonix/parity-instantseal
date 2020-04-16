@@ -33,6 +33,8 @@ cors = ["*"]
 apis = ["all"]
 # Allow connections only using specified addresses.
 hosts = ["all"]
+# Enable experimental JSON-RPC APIs
+experimental_rpcs = true
 
 [websockets]
 #  JSON-RPC will be listening for connections on IP 0.0.0.0.
